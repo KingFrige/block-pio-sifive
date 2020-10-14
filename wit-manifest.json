@@ -1,11 +1,11 @@
 [
     {
-        "commit": "b9806ae597c95cc398226e6a16a14b4fd5789d5e",
+        "commit": "86f0ebc",
         "name": "soc-testsocket-sifive",
         "source": "git@github.com:sifive/soc-testsocket-sifive.git"
     },
     {
-        "commit": "b50492b07cdf07e84de9834f83972f530188b0c9",
+        "commit": "27a700f",
         "name": "api-generator-sifive",
         "source": "git@github.com:sifive/api-generator-sifive.git"
     },
