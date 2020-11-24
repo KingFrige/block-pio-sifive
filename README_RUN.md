@@ -15,7 +15,8 @@ Initializing the workspace
 -----------------------------
 
 ```bash
-wit init workspace -a git@github.com:sifive/block-pio-sifive.git
+wit init workspace -a git@github.com:KingFrige/block-pio-sifive.git:flow-study
+
 cd workspace
 
 wit add-pkg git@github.com:sifive/environment-example-sifive.git
