@@ -7,8 +7,8 @@ requires
 - note: verilator version >= 3.92
 
 ```bash
-module load wake/0.18.0
-module load wit/0.11.1
+module load wake/v0.18.0
+module load wit/v0.11.1
 ```
 
 Initializing the workspace
