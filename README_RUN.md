@@ -33,8 +33,9 @@ wake --init .
 
 wake makeRTL pioDUT
 
-wake -v 'runSimWith pioDUT VCS'
 wake -v 'runSimWith pioDUT Verilator'
+
+wake -v 'runSimWith pioDUT VCS' # add vcs path to env
 
 wake 'runBitstream "vc707" pioVC707DUT'
 
